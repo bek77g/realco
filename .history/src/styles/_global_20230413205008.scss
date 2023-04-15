@@ -1,0 +1,8 @@
+.logo {
+  display: flex;
+  align-items: center;
+  &__box {
+    background: #cf6f49;
+    border-radius: 14px;
+  }
+}

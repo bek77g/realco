@@ -1,0 +1,10 @@
+.logo {
+  display: flex;
+  align-items: center;
+  &__box {
+    width: 32px;
+    height: 32px;
+    background: #cf6f49;
+    border-radius: 12px;
+  }
+}

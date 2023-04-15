@@ -1,0 +1,24 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+.icon {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  &__box {
+    width: 32px;
+    height: 32px;
+    background: #cf6f49;
+    border-radius: 12px;
+  }
+  &__name {
+    font-weight: bold;
+  }
+}
